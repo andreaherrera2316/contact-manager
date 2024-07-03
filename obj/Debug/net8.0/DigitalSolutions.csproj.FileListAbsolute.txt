@@ -1,0 +1,14 @@
+/Users/user01/Desktop/DigitalSolutions/bin/Debug/net8.0/DigitalSolutions
+/Users/user01/Desktop/DigitalSolutions/bin/Debug/net8.0/DigitalSolutions.deps.json
+/Users/user01/Desktop/DigitalSolutions/bin/Debug/net8.0/DigitalSolutions.runtimeconfig.json
+/Users/user01/Desktop/DigitalSolutions/bin/Debug/net8.0/DigitalSolutions.dll
+/Users/user01/Desktop/DigitalSolutions/bin/Debug/net8.0/DigitalSolutions.pdb
+/Users/user01/Desktop/DigitalSolutions/obj/Debug/net8.0/DigitalSolutions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user01/Desktop/DigitalSolutions/obj/Debug/net8.0/DigitalSolutions.AssemblyInfoInputs.cache
+/Users/user01/Desktop/DigitalSolutions/obj/Debug/net8.0/DigitalSolutions.AssemblyInfo.cs
+/Users/user01/Desktop/DigitalSolutions/obj/Debug/net8.0/DigitalSolutions.csproj.CoreCompileInputs.cache
+/Users/user01/Desktop/DigitalSolutions/obj/Debug/net8.0/DigitalSolutions.dll
+/Users/user01/Desktop/DigitalSolutions/obj/Debug/net8.0/refint/DigitalSolutions.dll
+/Users/user01/Desktop/DigitalSolutions/obj/Debug/net8.0/DigitalSolutions.pdb
+/Users/user01/Desktop/DigitalSolutions/obj/Debug/net8.0/DigitalSolutions.genruntimeconfig.cache
+/Users/user01/Desktop/DigitalSolutions/obj/Debug/net8.0/ref/DigitalSolutions.dll
